@@ -8,3 +8,6 @@ Highlight Search Apps can be useful in a variety of contexts, such as for resear
 Highlight Search Apps can be found in a variety of formats, including web-based tools, browser extensions, and mobile apps. Some popular examples include Chrome's "Find in Page" feature, Adobe Acrobat's "Find" tool, and various search extensions for text editors and document viewers.
 
 Overall, a Highlight Search App can be a valuable tool for anyone who needs to search through large volumes of text to find specific information, and it can save time and improve productivity by making it easy to locate relevant information quickly and efficiently.
+
+
+![Screenshot 2023-05-04 003710](https://user-images.githubusercontent.com/89717401/236206593-df38f9e7-5973-410c-a326-dcd681b64103.png)
